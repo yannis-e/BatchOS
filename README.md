@@ -4,14 +4,7 @@
     <img src="https://github.com/YannisE21/BatchOS/blob/main/img/BatchOSBanner.png?raw=true" alt="Logo">
   </a>
 
-  <h3 align="center">BatchOS</h3>
-
   <p align="center">
-    An operating system written in batch
-    <br/>
-    <br/>
-    <br/>
-    <br/>
     <a href="https://github.com/YannisE21/BatchOS/issues">Report Bug</a>
     .
     <a href="https://github.com/YannisE21/BatchOS/issues">Request Feature</a>
