@@ -34,4 +34,4 @@ BatchOS is distributed under the MIT License, allowing for wide usage and modifi
 
 ## Authors
 
-* **Yannis Estermann** - [Yannis Estermann](https://github.com/YannisE21) - *Build the complete app*
+* [Yannis Estermann](https://github.com/YannisE21) - *Build the complete app*
