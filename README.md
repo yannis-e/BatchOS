@@ -1,7 +1,7 @@
 <br/>
 <p align="center">
   <a href="https://github.com/YannisE21/BatchOS">
-    <img src="https://github.com/YannisE21/BatchOS/blob/main/img/BatchOSBanner.png?raw=true" alt="Logo" width="80" height="80">
+    <img src="https://github.com/YannisE21/BatchOS/blob/main/img/BatchOSBanner.png?raw=true" alt="Logo">
   </a>
 
   <h3 align="center">BatchOS</h3>
